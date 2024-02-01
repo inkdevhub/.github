@@ -51,10 +51,7 @@ DRink! originally came with `drink-cli`: a command-line tool with terminal graph
 
 ## DRink! repositories
 
-| repo  | type  | frontend  | tutorial  |   |
-|---|---|---|---|---|
-|  |   |   |   |   |
-|  |   |   |   |   |
-|  |   |   |   |   |
-|  |   |   |   |   |
+| repo  | type  | frontend  | tutorial  |
+|---|---|---|---|
+| [drink](https://github.com/inkdevhub/drink) | library / tool | TUI available | [quick start](https://github.com/inkdevhub/drink/tree/main/examples/quick-start-with-drink) |
 
